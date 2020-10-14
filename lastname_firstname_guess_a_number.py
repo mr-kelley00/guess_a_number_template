@@ -1,5 +1,5 @@
-# Guess A Number, Ryan Kelley, 10/13/20 1:48pm, v0.1
-import random # What library will allow you to generate random numbers?
+# <Program Name>, <Author Name>, <Date> <Time>, v0.0
+import ? # What library will allow you to generate random numbers?
 
 num_guess # Initialize this variable to 0.
 
